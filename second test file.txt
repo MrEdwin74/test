@@ -1,2 +1,1 @@
-second test
-changed too
+these are changes to the second file
