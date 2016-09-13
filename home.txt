@@ -1,2 +1,4 @@
-hamblaster.
-new line
+
+$ git checkout -- [file]                 : back to work area
+$ git reset HEAD [file]                  : remove from stages area
+$ git checkout [commit number] -- [file] : bring back a old version to work area
