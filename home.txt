@@ -2,3 +2,7 @@
 $ git checkout -- [file]                 : back to work area
 $ git reset HEAD [file]                  : remove from stages area
 $ git checkout [commit number] -- [file] : bring back a old version to work area
+$ ls : list your files
+$ clear : clear screen
+$ git init :  made the current map to master map
+$ git remote add [Repo] http://github.com/...
